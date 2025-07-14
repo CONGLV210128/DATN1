@@ -1,0 +1,6 @@
+*.Zip
+*.SchDocPreview
+**/History/
+**/__Previews/
+*.PrjPcbStructure
+*.LOG
