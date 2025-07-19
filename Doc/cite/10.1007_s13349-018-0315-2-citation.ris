@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Hung, Shih Lin
+AU  - Ding, Jiun Ting
+AU  - Lu, Yung Chi
+PY  - 2019
+DA  - 2019/02/01
+TI  - Developing an energy-efficient and low-delay wake-up wireless sensor network-based structural health monitoring system using on-site earthquake early warning system and wake-on radio
+JO  - Journal of Civil Structural Health Monitoring
+SP  - 103
+EP  - 115
+VL  - 9
+IS  - 1
+AB  - The stability and durability of the energy supply for sensing nodes in a wireless sensors network (WSN) is an important research issue and requiring improvement for WSNs in structural health monitoring (SHM) systems.Having control sensors periodically enter a low-power mode or sleep state is commonly used to reduce energy consumption. If a node receives a sampling command but the node remains in listening-time cycle, the sampling process will be delayed. Hence, the capabilities of radio triggering can improve stability and durability when integrated with an external low-power circuit attached to sensing nodes. Transmitting a wake-up command when specific start-up conditions are met to quickly awaken sensing nodes to work wirelessly is also an effective approach. The objective of this work is to integrate sensing field-type p-wave technology to construct an intelligent energy economical WSN with sentry nodes embedded with an earthquake early warning (EEW) system. Sentry nodes are integrated with WSN gateways and employed to link and synchronize all sensing nodes in advance through seismic prediction and radio-triggering technology. In this mode, the average power consumed was measured at 350 μA. A sensor will be more effective in measuring structural responses after an earthquake by increasing available sleep time.
+SN  - 2190-5479
+UR  - https://doi.org/10.1007/s13349-018-0315-2
+DO  - 10.1007/s13349-018-0315-2
+ID  - Hung2019
+ER  - 

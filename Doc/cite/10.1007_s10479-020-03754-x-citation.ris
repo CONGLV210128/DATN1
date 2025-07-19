@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Al Qundus, Jamal
+AU  - Dabbour, Kosai
+AU  - Gupta, Shivam
+AU  - Meissonier, Régis
+AU  - Paschke, Adrian
+PY  - 2022
+DA  - 2022/12/01
+TI  - Wireless sensor network for AI-based flood disaster detection
+JO  - Annals of Operations Research
+SP  - 697
+EP  - 719
+VL  - 319
+IS  - 1
+AB  - In recent decades, floods have led to massive destruction of human life and material. Time is of the essence for evacuation, which in turn is determined by early warning systems. This study proposes a wireless sensor network decision model for the detection of flood disasters by observing changes in weather conditions compared to historical information at a given location. To this end, we collected data such as air pressure, wind speed, water level, temperature and humidity (DH11), and precipitation (0/1) from sensors located at several points in the area under consideration and obtained sea level air pressure and rainfall from the Google API. The collected data was then transmitted via a LoRaWAN network implemented in Raspberry-Pi and Arduino. The developed support vector machine (SVM) model includes a number of coordinators responsible for a number of sectors (locations). The SVM model sends the binary decisions (flood or no flood) with an accuracy of 98% to a cloud server connected to monitoring rooms, where a decision can be made regarding the response to a possible flood disaster.
+SN  - 1572-9338
+UR  - https://doi.org/10.1007/s10479-020-03754-x
+DO  - 10.1007/s10479-020-03754-x
+ID  - Al Qundus2022
+ER  - 

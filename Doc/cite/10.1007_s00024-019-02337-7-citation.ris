@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Allen, Richard M.
+AU  - Kong, Qingkai
+AU  - Martin-Short, Robert
+PY  - 2020
+DA  - 2020/04/01
+TI  - The MyShake Platform: A Global Vision for Earthquake Early Warning
+JO  - Pure and Applied Geophysics
+SP  - 1699
+EP  - 1712
+VL  - 177
+IS  - 4
+AB  - The MyShake Platform is an operational framework to provide earthquake early warning (EEW) to people in earthquake-prone regions. It is unique among approaches to EEW as it is built on existing smartphone technology to both detect earthquakes and issue warnings. It therefore has the potential to provide EEW wherever there are smartphones, and there are now smartphones wherever there are people. The MyShake framework can also integrate other sources of alerts and deliver them to users, as well and delivering its alerts through other channels as needed. The MyShake Platform builds on experience from the first 3 years of MyShake operation. Over 300,000 people around the globe have downloaded the MyShake app and participated in this citizen science project to detect earthquakes and provide seismic waveforms for research. These operations have shown that earthquakes can be detected, located, and the magnitude estimated ~ 5 to 7 s after the origin time, and alerts can be delivered to smartphones in ~ 1 to 5 s. A human-centered design process produced key insights to the needs of users that have been incorporated into MyShake2.0 which is being release for Android and iOS devices in June 2019. MyShake2.0 will also deliver EEW alerts, initially in California and hopes to expand service to other regions.
+SN  - 1420-9136
+UR  - https://doi.org/10.1007/s00024-019-02337-7
+DO  - 10.1007/s00024-019-02337-7
+ID  - Allen2020
+ER  - 
